@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats-jeansouza.vercel.app/api/top-langs/?username=jeansouza)
 
 ## 3. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=jeansouza/Python)
+![Your Repository's Stats](https://contrib.rocks/image?repo=jeansouza/github-readme-stats)
 
 ## 4. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -32,5 +32,3 @@ Here are some ideas to get you started:
 ## 5. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=jeansouza)
 
-### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/jeansouza/Python)
