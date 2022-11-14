@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ![Your Repository's Stats](https://github-readme-stats-jeansouza.vercel.app/api?username=jeansouza&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats-jeansouza.vercel.app/api/top-langs/?username=jeansouza&count_private=true)
+![Top Langs](https://github-readme-stats-jeansouza.vercel.app/api/top-langs/?username=jeansouza&count_private=true&layout=compact)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=jeansouza&layout=compact)
+![Profile View Counter](https://komarev.com/ghpvc/?username=jeansouza)
 
 ![Wakatime Stats](https://github-readme-stats-jeansouza.vercel.app/api/wakatime?username=jeansouza)
 
