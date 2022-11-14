@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats-jeansouza.vercel.app/api/top-langs/?username=jeansouza&count_private=true)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=jeansouza)
+![Profile View Counter](https://komarev.com/ghpvc/?username=jeansouza&layout=compact)
 
 ![Wakatime Stats](https://github-readme-stats-jeansouza.vercel.app/api/wakatime?username=jeansouza)
 
