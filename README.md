@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## Stats
+
 ![Your Repository's Stats](https://github-readme-stats-jeansouza.vercel.app/api?username=jeansouza&show_icons=true&count_private=true)
+
 ![Top Langs](https://github-readme-stats-jeansouza.vercel.app/api/top-langs/?username=jeansouza)
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=jeansouza)
 
 <!-- ## 3. Contributors Badge
