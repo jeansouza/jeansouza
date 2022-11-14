@@ -15,20 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 1. GitHub Stats
+## Stats
 ![Your Repository's Stats](https://github-readme-stats-jeansouza.vercel.app/api?username=jeansouza&show_icons=true&count_private=true)
-
-## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats-jeansouza.vercel.app/api/top-langs/?username=jeansouza&theme=blue-green&count_private=true)
-
 ![Top Langs](https://github-readme-stats-jeansouza.vercel.app/api/top-langs/?username=jeansouza)
+![Profile View Counter](https://komarev.com/ghpvc/?username=jeansouza)
 
-## 3. Contributors Badge
+<!-- ## 3. Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=jeansouza/github-readme-stats)
 
 ## 4. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-## 5. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=jeansouza)
-
+-->
