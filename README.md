@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats-jeansouza.vercel.app/api/top-langs/?username=jeansouza&theme=blue-green&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel-jeansouza.app/api/top-langs/?username=jeansouza)](https://github.com/jeansouza/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel-jeansouza.app/api/top-langs/?username=jeansouza)
 
 ## 3. Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=jeansouza/Python)
